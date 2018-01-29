@@ -1,0 +1,20 @@
+{
+  "name": "weblog",
+  "version": "1.0.0",
+  "description": "An educational weblog that can be used in the process of organizing learning activities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kostandy/weblog.git"
+  },
+  "author": "Kostandy (Dmitry Andriushchenko PN-14)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kostandy/weblog/issues"
+  },
+  "homepage": "https://github.com/Kostandy/weblog#readme",
+  "dependencies": {}
+}
