@@ -4,7 +4,7 @@
   "description": "An educational weblog that can be used in the process of organizing learning activities.",
   "main": "index.js",
   "scripts": {
-    "build:client": "npm i --prefix client && cd client && npm run build",
+    "build:client": "npm i --prefix client",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
